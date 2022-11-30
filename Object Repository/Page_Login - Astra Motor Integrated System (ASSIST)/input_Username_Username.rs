@@ -6,6 +6,10 @@
    <elementGuidId>e5b87c53-8ea1-43f3-a6c1-4ef23f207e35</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'text' and @id = 'signInName' and @name = 'Username' and @title = 'Please enter a valid Username' and @placeholder = 'Username' and @value = 'stardealer']</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
          <value>//input[@id='signInName']</value>
       </entry>
@@ -14,7 +18,7 @@
          <value>#signInName</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +26,6 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>badc04f8-9a64-44a7-98a3-8fb50461eac5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +33,6 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>bbae6805-f91a-4396-89dd-5201e6e86dd7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +40,6 @@
       <name>id</name>
       <type>Main</type>
       <value>signInName</value>
-      <webElementGuid>20aaa2a0-8ebc-4098-a560-eafa7752e144</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +47,6 @@
       <name>name</name>
       <type>Main</type>
       <value>Username</value>
-      <webElementGuid>33c34e61-9d71-4360-bf02-830c5e328aac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,6 @@
       <name>title</name>
       <type>Main</type>
       <value>Please enter a valid Username</value>
-      <webElementGuid>c0440838-9c2b-4870-b9a3-73b9e5bf961e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,15 +61,13 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Username</value>
-      <webElementGuid>d75cc27f-ac4e-4eb4-9921-ce432eda3633</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
       <value>stardealer</value>
-      <webElementGuid>132739ec-4606-46b1-96d9-5eec26eefd77</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +75,6 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Username</value>
-      <webElementGuid>b6e53892-99f8-4494-aeb4-dd00871d455c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +82,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;signInName&quot;)</value>
-      <webElementGuid>78a91fe4-61cc-4eac-a487-ab4c3f195427</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -94,7 +89,6 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='signInName']</value>
-      <webElementGuid>953d1409-4126-422d-a8a6-2b95f5416cdf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +96,6 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='localAccountForm']/div[3]/div/input</value>
-      <webElementGuid>b24775f0-73b9-4e84-b572-9c0c62069ceb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +103,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>311d4192-b152-4f63-bf46-fb47446524f8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +110,5 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'signInName' and @name = 'Username' and @title = 'Please enter a valid Username' and @placeholder = 'Username']</value>
-      <webElementGuid>32750109-d58d-404e-84f1-7d46ddfcee21</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
