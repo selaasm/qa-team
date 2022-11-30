@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>strong_Login</name>
+   <tag></tag>
+   <elementGuidId>d4e18d26-e063-4a24-b9e4-e6148b551d68</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/h4/strong</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h4.ant-typography.isoTitle > strong</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>6584022f-fc9a-4a21-830f-98fdd320f8b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login</value>
+      <webElementGuid>a1df87c4-63a7-4fab-be46-d10e068cc6d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-bwzfXH lfzKet isoSignInPage&quot;]/div[@class=&quot;isoLoginContentWrapper&quot;]/div[@class=&quot;isoLoginContent&quot;]/h4[@class=&quot;ant-typography isoTitle&quot;]/strong[1]</value>
+      <webElementGuid>f089b517-0ef9-44f7-b494-bdddd51d5746</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/h4/strong</value>
+      <webElementGuid>6e4d871e-f3dc-45b8-9253-6968710e9a33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selamat Datang di Astra Motor Integrated System (ASSIST)'])[1]/following::strong[1]</value>
+      <webElementGuid>d9de9a16-4eea-434b-9bc0-2364937580ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::strong[2]</value>
+      <webElementGuid>037795dc-cf78-4449-8eff-d73395655ed4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in'])[1]/preceding::strong[1]</value>
+      <webElementGuid>1b9180c8-4f41-49ff-9131-16b1c54f1bf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in with your username'])[1]/preceding::strong[1]</value>
+      <webElementGuid>73714451-1db1-4378-8535-284065a6bea1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Login']/parent::*</value>
+      <webElementGuid>ae73ea6d-76fe-47e2-95a6-89edd31b8b2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h4/strong</value>
+      <webElementGuid>4bed91f7-2b05-417a-94b3-3ffdebb4ff4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//strong[(text() = 'Login' or . = 'Login')]</value>
+      <webElementGuid>312231dd-2e56-4c5d-8bf3-7ff0b3b9f9d8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
